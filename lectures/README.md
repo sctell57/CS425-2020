@@ -1,6 +1,6 @@
 # Schedule: Lectures, Programming Assignments and Exams
 
-## Part 1: Game Engine, Game Resouces & Scenes, Modelings (4 weeks)
+## Part 1: Game Engine, Game Resources & Scenes, Modelings (4 weeks)
 
 - **Aug 24**: Introduction & Syllabus 
   - Read GEA 3.1 (C++ Review and Best Practices)
