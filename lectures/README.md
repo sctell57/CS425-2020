@@ -1,4 +1,4 @@
-# Lectures
+# Schedule: Lectures, Programming Assignments and Exams
 
 ## Part 1: Game Engine, Game Resouces & Scenes, Modelings (4 weeks)
 
