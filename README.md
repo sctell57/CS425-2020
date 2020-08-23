@@ -8,7 +8,7 @@
 - [Course HomePage](https://github.com/jmlien/CS425-2020)
 - [Lecture schedule](lectures)
 - [Programming assignments](assignments)
-- [Discussion board]
+- [Discussion board](https://piazza.com/class/ke6j1cc6db6616)
 - [Syllabus](https://cs.gmu.edu/media/syllabi/Fall2020/Game_Programming_1LienJ.html)
 
 ## Instructor
