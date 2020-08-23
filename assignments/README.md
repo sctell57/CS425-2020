@@ -12,6 +12,6 @@ There will be 5+1 programming assignments
 5. [PA05](PA05-Boids) (10%): Due Nov 30, 11:59 pm.
 
 ## Final Projects (20%)
-0. Pitch (1% participation point)
-1. Proposal (1% participation point)
-2. Presentation and report (20%)
+0. Pitch (1% participation point): Oct 28 in class
+1. Proposal (1% participation point): Nov 18 in class
+2. Presentation and report (20%): Dec 14 in class
