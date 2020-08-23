@@ -2,7 +2,7 @@
 
 
 ## Information
-- Time: Monday and Wednesday, 12:00 pm - 1:15 pm 
+- Time: Monday and Wednesday, 12:00 pm - 1:15 pm (class will meet on BBCU with synchronous and asynchronous learning activities)
 - Location: GMU Blackboard
 
 - [Course HomePage](https://github.com/jmlien/CS425-2020)
