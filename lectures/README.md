@@ -53,6 +53,7 @@
   - <mark>PA04 Behavior Tree (10%) Out</mark>
 - **Oct 28 & Nov 02**: ODE Solvers, Euler's method, Runge-Kutta 2nd~4th order methods, mid-point method
   - Flocking 
+  - <mark>Final Project pitch</mark>
   - <mark>PA05 Boids (10%) Out on Nov 02</mark>
 - **Nov 04**: Rigid-body simulation: Part 1 
   - [Note from David Baraff](https://www.dropbox.com/s/q1f1j7jp5bk5a64/notesd1.pdf?dl=0)
