@@ -4,11 +4,13 @@
 
 - **Aug 24**: Introduction & Syllabus 
   - Read GEA 3.1 (C++ Review and Best Practices)
+  - <mark>PA00 SDL setup (0%) Out</mark>
 - **Aug 26**: Event-based System 
   - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 (Subsystem Start-Up and Shut-Down) 
 - **Aug 31**: Resource Management  
   - Read GEA Chapters 8.1 (Rendering loop) & 8.2 (Game Loop) & 7 (Resources & File system)
   - <mark>PA01 Level Loading (10%) Out</mark>
+  - <mark>PA00 SDL setup (0%) due at 11:59pm</mark>
 - **Sep 02**: Scene Management, Octree, BSP, K-D tree, Range tree 
   - Read GEA Chapters 11.1 & 11.2
 - **Sep 07**: Labor Day (no class)
