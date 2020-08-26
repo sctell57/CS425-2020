@@ -2,7 +2,7 @@
 
 ## Part 1: Game Engine, Game Resources & Scenes, Modelings (4 weeks)
 
-- **Aug 24**: Introduction & Syllabus ([lecture note pdf](https://www.dropbox.com/s/kx9srnctvwj1b3c/01-Introduction.pdf))
+- **Aug 24**: Introduction & Syllabus ([pdf](https://www.dropbox.com/s/kx9srnctvwj1b3c/01-Introduction.pdf))
   - Read GEA 3.1 (C++ Review and Best Practices)
   - <mark>PA00 SDL setup (0%) Out</mark>
 - **Aug 26**: Event-based System 
