@@ -5,7 +5,7 @@
 - **Aug 24**: Introduction & Syllabus ([pdf](https://www.dropbox.com/s/kx9srnctvwj1b3c/01-Introduction.pdf))
   - Read GEA 3.1 (C++ Review and Best Practices)
   - <mark>PA00 SDL setup (0%) Out</mark>
-- **Aug 26**: Event-based System 
+- **Aug 26**: Event-based System ([pdf](https://www.dropbox.com/s/8ofpep5wzr2nahn/02-GameEngine.pdf))
   - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 (Subsystem Start-Up and Shut-Down) 
 - **Aug 31**: Resource Management  
   - Read GEA Chapters 8.1 (Rendering loop) & 8.2 (Game Loop) & 7 (Resources & File system)
