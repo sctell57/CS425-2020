@@ -11,7 +11,7 @@ Due: Sept 14th, 11:59pm, 2020
             > mkdir build; cd build; cmake ..; make
         - run the code: 
             > build/PA01 levels/level001.txt
-    - On Windows using Visual studio
+    - On Windows using Visual studio (only in case that you have no clue how to compile the project)
         - Download [this zip file](https://www.dropbox.com/s/9zh5w84bjbdnfgf/netid-PA01.zip)
         - Unzip and rename netid-PA01.zip with your own GMU netid
         - Move eveything from this project (everything!) to your netid-PA01 folder
