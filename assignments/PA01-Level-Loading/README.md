@@ -18,6 +18,7 @@ Due: Sept 14th, 11:59pm, 2020
         - Open solution file PA01.sln in the folder "vcfiles" and then compile and run the code
 
 2. Read the code and fix a small bug in MyScene.cpp so that all agents are placed in the correct locations (5 pts)
+    - You should see the right image above if the bug is fixed
 
 3. Implement MyScene::broad_range_collision in MyScene.cpp (10 pts)
     - This method detects all pairs of colliding agents
