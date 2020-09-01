@@ -5,7 +5,7 @@ Due: Sept 14th, 11:59pm, 2020
 
 ## Tasks
 
-1. Compile/run the code using SDL2 and SDL2_image
+1. Compile/run the code using SDL2 and SDL2_image; you should see the left image above if everything works
     - On Linux/Mac/Linux
         - use cmake to compile: 
             > mkdir build; cd build; cmake ..; make
