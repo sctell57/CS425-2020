@@ -7,12 +7,13 @@
   - <mark>PA00 SDL setup (0%) Out</mark>
 - **Aug 26**: Event-based System ([pdf](https://www.dropbox.com/s/8ofpep5wzr2nahn/02-GameEngine.pdf))
   - Read GEA Chapters 1.3 (What is a Game Engine?), 6.1 (Subsystem Start-Up and Shut-Down) 
-- **Aug 31**: Resource Management  
-  - Read GEA Chapters 8.1 (Rendering loop) & 8.2 (Game Loop) & 7 (Resources & File system)
+  - C++ review using [mathtool](https://www.dropbox.com/sh/w9e9kmv9cf71md6/AACyol5VRFAZebEBkpNNnQ1za)
+- **Aug 31**: Resource Management  ([pdf](https://www.dropbox.com/s/uifdw9vmmuyphxf/03-Level%20Loading.pdf))
+  - Read GEA Chapters 8.1 (Rendering loop) & 8.2 (Game Loop)
   - <mark>PA01 Level Loading (10%) Out</mark>
   - <mark>PA00 SDL setup (0%) due at 11:59pm</mark>
-- **Sep 02**: Scene Management, Octree, BSP, K-D tree, Range tree 
-  - Read GEA Chapters 11.1 & 11.2
+- **Sep 02**: Scene Management, Octree, BSP, K-D tree, Range tree ([pdf](https://www.dropbox.com/s/tyxo97t6u8c4i5y/04-Scene-Management.pdf?dl=0))
+  - Read GEA Chapter 7 (Resources & File system)
 - **Sep 07**: Labor Day (no class)
 - **Sep 09**: Level loading Sample Code 
 - **Sep 14**: Procedural content, game play 
