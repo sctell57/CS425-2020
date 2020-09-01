@@ -5,10 +5,17 @@ Due: Sept 14th, 11:59pm, 2020
 
 ## Tasks
 
-1. Compile the code using SDL2 and SDL2_image
-    - Remember to set your working directory to the root folder of the assignment
-    - run the code: 
-    > PA01 levels/level001.txt
+1. Compile/run the code using SDL2 and SDL2_image
+    - On Linux/Mac/Linux
+        - use cmake to compile: 
+            > mkdir build; cd build; cmake ..; make
+        - run the code: 
+            > build/PA01 levels/level001.txt
+    - On Windows using Visual studio
+        - Download [this zip file](https://www.dropbox.com/s/9zh5w84bjbdnfgf/netid-PA01.zip)
+        - Unzip and rename netid-PA01.zip with your own GMU netid
+        - Move eveything from this project (everything!) to your netid-PA01 folder
+        - Open solution file PA01.sln in the folder "vcfiles" and then compile and run the code
 
 2. Read the code and fix a small bug in MyScene.cpp so that all agents are placed correctly (5 pts)
 
