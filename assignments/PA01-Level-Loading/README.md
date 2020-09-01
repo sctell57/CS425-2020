@@ -1,9 +1,7 @@
 # Programming Assignment 01
 Due: Sept 14th, 11:59pm, 2020
 
-![Before](/imgs/screen-before.png)
-![After](/imgs/screen-after.png)
-
+<img src="imgs/screen-before.png" width="350"/> <img src="imgs/screen-after.png" width="350"/>
 
 ## Tasks
 
