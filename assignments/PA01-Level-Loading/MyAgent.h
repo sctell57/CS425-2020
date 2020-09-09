@@ -36,7 +36,8 @@ namespace GMUCS425
         //transforms
         void rotate(float degree){ this->degree+=degree; }
         void rotateTo(float degree){ this->degree=degree; }
-
+        
+        //translation (in screen space)
         void tranlate(float x, float y){ this->x+=x; this->y+=y; }
         void tranlateTo(float x, float y){ this->x=x; this->y=y; }
 
@@ -46,7 +47,7 @@ namespace GMUCS425
         void show(){ visible=true; }
         void hide(){ visible=false; }
 
-        //sprite, aks costume
+        //sprite, aka costume
         void setSprite(MySprite * sprite){ this->sprite=sprite; }
 
         //motion/animation
