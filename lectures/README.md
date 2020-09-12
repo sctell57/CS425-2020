@@ -15,7 +15,7 @@
 - **Sep 02**: Scene Management, Octree, BSP, K-D tree, Range tree ([pdf](https://www.dropbox.com/s/tyxo97t6u8c4i5y/04-Scene-Management.pdf?dl=0))
   - Read GEA Chapter 7 (Resources & File system)
 - **Sep 07**: Labor Day (no class)
-- **Sep 09**: Level loading Sample Code 
+- **Sep 09**: Level loading Sample Code ([pdf](https://www.dropbox.com/s/vn29imx71vnixy4/05-Level%20Loading.pdf?dl=0)
 - **Sep 14**: Procedural content, game play 
   - Read this [blogpost by Alex Norton](https://www.gamecareerguide.com/news/169624/opinion_the_difficulties_of_an_infinite_video_game_world.php)
   - <mark>PA01 Due @11:59pm</mark>
